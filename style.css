@@ -173,7 +173,7 @@ button.delete:hover {
   letter-spacing: 1px;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 480px) {
   .app-container {
     padding: 15px;
     width: 95%;
